@@ -1,0 +1,1 @@
+As menionted in the readme the required file exceedes the limits of this repo, however the file can be retrieved via: https://www.bls.gov/oes/special-requests/oesm23nat.zip
